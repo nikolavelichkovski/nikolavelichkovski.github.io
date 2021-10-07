@@ -1,0 +1,30 @@
+3D model of shelves for school bag.
+
+A low-poly and game ready asset. Suitable for school/class scene in your game.
+
+Using PBR Metalness/Rhougness workflow.
+
+The preview image is render in cycles blender 2.82.
+
+Detail:
+-Verts : 148
+-Faces : 64
+-Tris : 128
+
+-Height : 1.08 m / 108 cm
+-Width : 0.40 m/ 40 cm
+-Length : 1.9 m / 190 cm
+
+-Export Format : FBX, OBJ, and glb.
+
+-Material : white painted wood.
+-Texture Size : 2048 x 2048
+-Texture Format : png
+-Workflow : Metalness/Rhoughness
+-Texture List : Albedo, Metallic. Rhougness, Normal (openGL and DirectX), AO.
+
+(each archive file contain all texture)
+
+please give me some feedback.
+
+!!!--thank you--!!!
